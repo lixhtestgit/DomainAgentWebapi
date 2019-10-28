@@ -1,0 +1,4 @@
+2019-10-25 15:57:26.9321 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2019-10-25 17:14:31.9746 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2019-10-25 21:08:02.0289 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2019-10-25 21:12:36.6096 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console

@@ -1,0 +1,2046 @@
+2019-10-25 15:57:27.0341|Microsoft.Hosting.Lifetime|INFO
+Application started. Press Ctrl+C to shut down. 
+
+2019-10-25 15:57:27.0611|Microsoft.Hosting.Lifetime|INFO
+Hosting environment: Production 
+
+2019-10-25 15:57:27.0611|Microsoft.Hosting.Lifetime|INFO
+Content root path: F:\我的小项目\域名代理服务器开发\DomainAgentWebapi\DomainAgentWebapiRelease 
+
+2019-10-25 15:57:27.0611|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:27:059_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:27.0711|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:27.0711|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:30.9143|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 3831.2604ms - OK 
+
+2019-10-25 15:57:30.9143|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 3848.775ms - OK 
+
+2019-10-25 15:57:30.9303|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:27:059_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:31.0033|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:002_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.0033|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:31.0033|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:31.0033|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:012_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.0033|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:012_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.0033|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:31.0033|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:31.0033|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:31.0033|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:31.1133|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 109.71170000000001ms - OK 
+
+2019-10-25 15:57:31.1133|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 110.6907ms - OK 
+
+2019-10-25 15:57:31.1133|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:002_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 15:57:31.1383|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 125.2942ms - OK 
+
+2019-10-25 15:57:31.1383|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 126.29100000000001ms - OK 
+
+2019-10-25 15:57:31.1383|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 125.2367ms - OK 
+
+2019-10-25 15:57:31.1383|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 126.7622ms - OK 
+
+2019-10-25 15:57:31.1633|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:012_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 15:57:31.1633|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:012_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 15:57:31.1633|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:170_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.1633|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:31.1633|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:31.2043|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:204_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.2043|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:31.2043|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:31.2213|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:221_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.2213|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:31.2213|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:31.2523|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 47.106500000000004ms - OK 
+
+2019-10-25 15:57:31.2523|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 47.8881ms - OK 
+
+2019-10-25 15:57:31.2523|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:204_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 15:57:31.4263|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 203.7105ms - OK 
+
+2019-10-25 15:57:31.4263|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 204.82240000000002ms - OK 
+
+2019-10-25 15:57:31.4263|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:221_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 15:57:31.5043|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 333.0523ms - OK 
+
+2019-10-25 15:57:31.5043|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 334.6363ms - OK 
+
+2019-10-25 15:57:31.5263|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:170_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 15:57:31.6103|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:609_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1571990251570&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:31.6103|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990251570%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:31.6103|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990251570%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:31.9994|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 386.2729ms - OK 
+
+2019-10-25 15:57:31.9994|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 387.85470000000004ms - OK 
+
+2019-10-25 15:57:31.9994|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:31:609_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990251570%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 15:57:32.6764|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:32:676_记录请求地址：http://3w.huanqiu.com/favicon.ico,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:32.6764|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 15:57:32.6764|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 15:57:32.7264|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 48.351800000000004ms - OK 
+
+2019-10-25 15:57:32.7264|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 49.9912ms - OK 
+
+2019-10-25 15:57:32.7264|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:32:676_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico_图片字节流长度1892 
+
+2019-10-25 15:57:37.5737|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:573_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:37.5737|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:37.5737|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:37.6037|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 27.7905ms - OK 
+
+2019-10-25 15:57:37.6037|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 29.337200000000003ms - OK 
+
+2019-10-25 15:57:37.6037|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:573_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:37.6717|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:671_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:37.6717|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:672_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:37.6717|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:37.6717|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:37.6717|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:37.6717|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:37.6717|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:675_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:37.6717|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:37.6717|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:37.6967|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 22.820500000000003ms - OK 
+
+2019-10-25 15:57:37.6967|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 23.6966ms - OK 
+
+2019-10-25 15:57:37.6967|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 21.026500000000002ms - OK 
+
+2019-10-25 15:57:37.6967|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 21.6386ms - OK 
+
+2019-10-25 15:57:37.6967|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 23.131500000000003ms - OK 
+
+2019-10-25 15:57:37.6967|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 23.895ms - OK 
+
+2019-10-25 15:57:37.7967|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:795_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:37.7967|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:37.7967|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:37.8297|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:829_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:37.8297|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:37.8297|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:37.8977|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 100.2141ms - OK 
+
+2019-10-25 15:57:37.8977|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 101.3764ms - OK 
+
+2019-10-25 15:57:37.8977|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 71.0921ms - OK 
+
+2019-10-25 15:57:37.8977|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 71.67ms - OK 
+
+2019-10-25 15:57:37.8977|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:829_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 15:57:37.9147|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:795_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 15:57:38.2387|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:675_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 15:57:38.2857|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:672_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 15:57:38.4277|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:37:671_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 15:57:38.4777|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:38:476_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:38.4777|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:38.4777|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:38.5427|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 62.9463ms - OK 
+
+2019-10-25 15:57:38.5427|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 64.31660000000001ms - OK 
+
+2019-10-25 15:57:38.5427|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:38:476_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 15:57:38.7938|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:38:792_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1571990258784&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:38.7938|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990258784%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:38.7938|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990258784%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:38.8308|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 34.991800000000005ms - OK 
+
+2019-10-25 15:57:38.8308|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 36.3146ms - OK 
+
+2019-10-25 15:57:38.8308|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:38:792_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990258784%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 15:57:39.2108|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:210_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.2108|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.2108|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.3538|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:353_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.3538|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.3538|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.4018|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 46.0786ms - OK 
+
+2019-10-25 15:57:39.4018|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 47.0443ms - OK 
+
+2019-10-25 15:57:39.4018|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:353_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:39.4748|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:473_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.4748|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:474_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.4748|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:39.4748|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:39.4748|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:39.4748|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:39.4748|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:478_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.4748|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:39.4748|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:39.4968|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 21.776400000000002ms - OK 
+
+2019-10-25 15:57:39.4968|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 22.6734ms - OK 
+
+2019-10-25 15:57:39.4968|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 22.869600000000002ms - OK 
+
+2019-10-25 15:57:39.4968|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 23.5147ms - OK 
+
+2019-10-25 15:57:39.5058|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:473_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 15:57:39.5058|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 29.6112ms - OK 
+
+2019-10-25 15:57:39.5058|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 30.8553ms - OK 
+
+2019-10-25 15:57:39.5748|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:574_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.5748|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:39.5748|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:39.5748|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:575_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.5748|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.5748|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.5928|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 17.1214ms - OK 
+
+2019-10-25 15:57:39.5928|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 18.3369ms - OK 
+
+2019-10-25 15:57:39.6088|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:608_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.6088|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:39.6088|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:39.6668|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 56.691100000000006ms - OK 
+
+2019-10-25 15:57:39.6668|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 57.6466ms - OK 
+
+2019-10-25 15:57:39.6668|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:608_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 15:57:39.7368|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:735_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.7378|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.7378|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.7898|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 576.5276ms - OK 
+
+2019-10-25 15:57:39.7898|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 577.7570000000001ms - OK 
+
+2019-10-25 15:57:39.7898|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:210_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:39.8028|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 225.5575ms - OK 
+
+2019-10-25 15:57:39.8028|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 226.22560000000001ms - OK 
+
+2019-10-25 15:57:39.9168|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:916_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:39.9168|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:39.9168|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.0248|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:478_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 15:57:40.0398|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:474_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 15:57:40.0708|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:070_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.0708|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:40.0708|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:40.0908|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:090_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.0908|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.0908|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.0998|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 27.5669ms - OK 
+
+2019-10-25 15:57:40.0998|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 28.7631ms - OK 
+
+2019-10-25 15:57:40.0998|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:070_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 15:57:40.1118|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 373.52090000000004ms - OK 
+
+2019-10-25 15:57:40.1118|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 375.3011ms - OK 
+
+2019-10-25 15:57:40.1118|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:575_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:40.2528|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 333.7602ms - OK 
+
+2019-10-25 15:57:40.2528|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 335.6531ms - OK 
+
+2019-10-25 15:57:40.2798|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:279_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.2798|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.2798|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.3038|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 22.4942ms - OK 
+
+2019-10-25 15:57:40.3038|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 23.482000000000003ms - OK 
+
+2019-10-25 15:57:40.3038|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:308_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1571990260274&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.3038|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990260274%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:40.3038|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990260274%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:40.3168|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:279_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:40.3588|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 48.2794ms - OK 
+
+2019-10-25 15:57:40.3588|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 49.5405ms - OK 
+
+2019-10-25 15:57:40.3588|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:308_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990260274%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 15:57:40.3938|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:393_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.3938|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:394_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:40.3938|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:396_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:40.3938|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:403_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.3938|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:57:40.4128|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 16.4173ms - OK 
+
+2019-10-25 15:57:40.4128|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 18.2224ms - OK 
+
+2019-10-25 15:57:40.4128|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 322.3419ms - OK 
+
+2019-10-25 15:57:40.4128|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 323.25440000000003ms - OK 
+
+2019-10-25 15:57:40.4128|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 18.6995ms - OK 
+
+2019-10-25 15:57:40.4128|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 19.482300000000002ms - OK 
+
+2019-10-25 15:57:40.4888|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:488_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.4888|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:40.4888|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:40.5178|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 27.5286ms - OK 
+
+2019-10-25 15:57:40.5178|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 28.4828ms - OK 
+
+2019-10-25 15:57:40.5349|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:534_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.5349|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:40.5349|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:40.7379|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 202.18ms - OK 
+
+2019-10-25 15:57:40.7379|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 203.0241ms - OK 
+
+2019-10-25 15:57:40.7379|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:534_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 15:57:40.7379|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:735_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:40.8029|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 398.0451ms - OK 
+
+2019-10-25 15:57:40.8029|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 398.77320000000003ms - OK 
+
+2019-10-25 15:57:40.8029|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:403_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:40.8349|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:834_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.8349|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:40.8349|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:57:40.8349|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:836_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.8349|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:40.8349|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:57:40.8349|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:842_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:40.8459|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:40.8459|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:57:40.8629|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:488_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 15:57:40.8629|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 34.2077ms - OK 
+
+2019-10-25 15:57:40.8629|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 35.0901ms - OK 
+
+2019-10-25 15:57:40.9369|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 539.3701ms - OK 
+
+2019-10-25 15:57:40.9369|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 540.3725000000001ms - OK 
+
+2019-10-25 15:57:41.0169|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:574_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 15:57:41.0169|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:41:025_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:41.0169|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:41.0169|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:57:41.0399|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:41:039_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:41.0399|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:41.0399|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:57:41.0719|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:39:916_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:57:41.0839|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 43.1308ms - OK 
+
+2019-10-25 15:57:41.0839|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 43.9457ms - OK 
+
+2019-10-25 15:57:41.0839|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:41:039_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 15:57:41.2489|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 221.59990000000002ms - OK 
+
+2019-10-25 15:57:41.2489|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 223.41740000000001ms - OK 
+
+2019-10-25 15:57:41.6749|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 828.1907ms - OK 
+
+2019-10-25 15:57:41.6749|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 831.2508ms - OK 
+
+2019-10-25 15:57:41.6969|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 859.3965000000001ms - OK 
+
+2019-10-25 15:57:41.6969|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 860.2742000000001ms - OK 
+
+2019-10-25 15:57:41.7169|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:834_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 15:57:41.7589|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:393_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 15:57:42.2569|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:842_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 15:57:42.3940|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:396_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 15:57:42.6170|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:836_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 15:57:42.6590|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:42:659_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:42.6590|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:42.6590|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:57:42.6790|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 18.2467ms - OK 
+
+2019-10-25 15:57:42.6790|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 19.3442ms - OK 
+
+2019-10-25 15:57:42.6790|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:42:659_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 15:57:42.6890|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:42:689_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1571990262683&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:42.6890|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990262683%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:42.6890|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990262683%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:57:42.7690|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 79.14370000000001ms - OK 
+
+2019-10-25 15:57:42.7690|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 80.1166ms - OK 
+
+2019-10-25 15:57:42.7690|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:42:689_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990262683%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 15:57:43.6500|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:41:025_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 15:57:44.0561|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:44:056_记录请求地址：http://3w.huanqiu.com/favicon.ico,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:57:44.0561|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 15:57:44.0561|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 15:57:44.1031|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 45.609ms - OK 
+
+2019-10-25 15:57:44.1031|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 46.3215ms - OK 
+
+2019-10-25 15:57:44.1031|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:44:056_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico_图片字节流长度1892 
+
+2019-10-25 15:57:44.3601|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:394_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 15:57:45.4121|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:57:40:090_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:58:24.0733|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:073_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.0733|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:58:24.0733|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 15:58:24.5704|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 495.4823ms - OK 
+
+2019-10-25 15:58:24.5704|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 496.5453ms - OK 
+
+2019-10-25 15:58:24.5854|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:073_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11444 
+
+2019-10-25 15:58:24.6314|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:631_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.6314|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:58:24.6314|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 15:58:24.6344|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:634_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.6344|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:58:24.6344|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 15:58:24.6344|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:637_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.6344|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:58:24.6344|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 15:58:24.6714|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 38.886ms - OK 
+
+2019-10-25 15:58:24.6714|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 40.1805ms - OK 
+
+2019-10-25 15:58:24.6934|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:631_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 15:58:24.7024|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 66.4514ms - OK 
+
+2019-10-25 15:58:24.7024|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 67.1058ms - OK 
+
+2019-10-25 15:58:24.7024|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 64.16550000000001ms - OK 
+
+2019-10-25 15:58:24.7024|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 64.92620000000001ms - OK 
+
+2019-10-25 15:58:24.7294|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:729_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.7294|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:58:24.7294|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 15:58:24.7294|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:634_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 15:58:24.7294|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:637_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 15:58:24.7754|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:775_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.7754|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:58:24.7754|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 15:58:24.7754|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:786_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.7754|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:58:24.7754|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 15:58:24.8044|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 16.8001ms - OK 
+
+2019-10-25 15:58:24.8044|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 17.608800000000002ms - OK 
+
+2019-10-25 15:58:24.8044|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:786_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 15:58:24.8174|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:817_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1571990304810&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:24.8174|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990304810%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:58:24.8174|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990304810%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 15:58:24.8234|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 47.139500000000005ms - OK 
+
+2019-10-25 15:58:24.8234|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 48.036500000000004ms - OK 
+
+2019-10-25 15:58:24.8234|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:775_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 15:58:24.9994|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 269.65500000000003ms - OK 
+
+2019-10-25 15:58:24.9994|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 270.33680000000004ms - OK 
+
+2019-10-25 15:58:25.0144|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:729_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 15:58:25.2984|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 480.56440000000003ms - OK 
+
+2019-10-25 15:58:25.2984|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 481.35900000000004ms - OK 
+
+2019-10-25 15:58:25.2984|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:24:817_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1571990304810%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 15:58:26.2045|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:26:203_记录请求地址：http://3w.huanqiu.com/favicon.ico,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 15:58:26.2045|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 15:58:26.2045|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 15:58:26.2465|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 41.266200000000005ms - OK 
+
+2019-10-25 15:58:26.2465|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 41.957300000000004ms - OK 
+
+2019-10-25 15:58:26.2465|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 03:58:26:203_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico_图片字节流长度1892 
+
+2019-10-25 16:06:26.4479|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:447_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:26.4479|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:26.4479|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:26.4479|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:449_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:26.4479|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:26.4479|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:26.4479|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:451_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:26.4479|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:26.4479|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:26.5619|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 112.5578ms - OK 
+
+2019-10-25 16:06:26.5619|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 114.2205ms - OK 
+
+2019-10-25 16:06:26.5689|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 115.4885ms - OK 
+
+2019-10-25 16:06:26.5689|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 116.51920000000001ms - OK 
+
+2019-10-25 16:06:26.5689|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:447_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 16:06:26.5839|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:451_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 16:06:26.5839|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 147.54000000000002ms - OK 
+
+2019-10-25 16:06:26.5839|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 148.1325ms - OK 
+
+2019-10-25 16:06:26.8110|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:810_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:26.8110|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:26.8110|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:26.9060|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 94.08250000000001ms - OK 
+
+2019-10-25 16:06:26.9060|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 95.27430000000001ms - OK 
+
+2019-10-25 16:06:26.9060|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:810_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 16:06:26.9300|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:449_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 16:06:26.9300|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:932_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:26.9300|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:26.9300|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:26.9900|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 56.6871ms - OK 
+
+2019-10-25 16:06:26.9900|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 57.4164ms - OK 
+
+2019-10-25 16:06:26.9900|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:26:932_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 16:06:27.0570|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:27:056_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:27.0570|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:27.0570|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:27.3830|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 325.6032ms - OK 
+
+2019-10-25 16:06:27.3830|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 326.70480000000003ms - OK 
+
+2019-10-25 16:06:27.3830|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:27:056_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 16:06:28.0160|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:016_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js.map,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:28.0160|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:28.0160|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:28.1810|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 163.61020000000002ms - OK 
+
+2019-10-25 16:06:28.1810|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 164.2313ms - OK 
+
+2019-10-25 16:06:28.2020|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:016_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map_长度81192 
+
+2019-10-25 16:06:28.4980|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:498_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2Flocalhost%3A5000%2Fweatherforecast&hr=&uvt=1571990788492&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=cSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:28.4980|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990788492%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:28.4980|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990788492%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:28.5360|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 36.8081ms - OK 
+
+2019-10-25 16:06:28.5360|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 37.6936ms - OK 
+
+2019-10-25 16:06:28.5360|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:498_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990788492%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 16:06:28.8891|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:889_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:28.8891|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:889_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:28.8891|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:28.8891|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:28.8891|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:28.8891|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:28.8891|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:891_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:28.8891|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:28.8891|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:28.9071|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 15.553600000000001ms - OK 
+
+2019-10-25 16:06:28.9071|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 16.1725ms - OK 
+
+2019-10-25 16:06:28.9131|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:891_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 16:06:28.9341|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 44.5627ms - OK 
+
+2019-10-25 16:06:28.9341|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 45.5032ms - OK 
+
+2019-10-25 16:06:28.9341|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:889_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 16:06:29.0211|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 130.7457ms - OK 
+
+2019-10-25 16:06:29.0211|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 131.52110000000002ms - OK 
+
+2019-10-25 16:06:29.0761|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:076_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:29.0761|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:29.0761|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:29.0841|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:083_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:29.0841|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:29.0841|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:29.1261|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 46.980900000000005ms - OK 
+
+2019-10-25 16:06:29.1261|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 48.3577ms - OK 
+
+2019-10-25 16:06:29.4291|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 343.9656ms - OK 
+
+2019-10-25 16:06:29.4291|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 345.2249ms - OK 
+
+2019-10-25 16:06:29.4291|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:083_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 16:06:29.5671|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:28:889_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 16:06:29.6381|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:638_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:29.6381|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:29.6381|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:29.6541|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 14.9602ms - OK 
+
+2019-10-25 16:06:29.6541|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 15.670800000000002ms - OK 
+
+2019-10-25 16:06:29.6541|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:638_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 16:06:29.6741|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:674_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2Flocalhost%3A5000%2Fweatherforecast&hr=&uvt=1571990789672&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=cSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:29.6741|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990789672%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:29.6741|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990789672%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:29.6881|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:076_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 16:06:29.7101|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 34.5038ms - OK 
+
+2019-10-25 16:06:29.7101|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 35.3162ms - OK 
+
+2019-10-25 16:06:29.7101|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:29:674_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990789672%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 16:06:30.0511|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:30:051_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js.map,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:30.0511|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:30.0511|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:30.1041|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 52.0028ms - OK 
+
+2019-10-25 16:06:30.1041|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 52.653800000000004ms - OK 
+
+2019-10-25 16:06:30.1211|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:30:051_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map_长度81192 
+
+2019-10-25 16:06:31.3272|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:326_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.3272|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:31.3272|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:31.3272|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:331_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.3272|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:334_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.3272|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:31.3272|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:31.3272|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:31.3272|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:31.3552|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 14.6874ms - OK 
+
+2019-10-25 16:06:31.3552|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 15.7355ms - OK 
+
+2019-10-25 16:06:31.3572|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:334_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 16:06:31.3742|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 46.0671ms - OK 
+
+2019-10-25 16:06:31.3742|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 47.0039ms - OK 
+
+2019-10-25 16:06:31.3742|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:326_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 16:06:31.3742|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 46.920500000000004ms - OK 
+
+2019-10-25 16:06:31.3742|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 47.8187ms - OK 
+
+2019-10-25 16:06:31.5212|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:521_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.5212|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:31.5212|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:31.5702|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 47.562200000000004ms - OK 
+
+2019-10-25 16:06:31.5702|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 48.3898ms - OK 
+
+2019-10-25 16:06:31.5792|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:579_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.5792|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:31.5792|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:31.6322|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 52.837ms - OK 
+
+2019-10-25 16:06:31.6322|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 53.5424ms - OK 
+
+2019-10-25 16:06:31.6322|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:579_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 16:06:31.7292|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:331_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 16:06:31.8212|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:821_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.8212|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:31.8212|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:31.8402|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 18.581ms - OK 
+
+2019-10-25 16:06:31.8412|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 19.4525ms - OK 
+
+2019-10-25 16:06:31.8412|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:821_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 16:06:31.8852|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:885_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2Flocalhost%3A5000%2Fweatherforecast&hr=&uvt=1571990791882&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=cSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:31.8852|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990791882%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:31.8852|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990791882%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:31.9342|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 47.9649ms - OK 
+
+2019-10-25 16:06:31.9342|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 48.724700000000006ms - OK 
+
+2019-10-25 16:06:31.9342|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:885_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990791882%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 16:06:32.1383|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:31:521_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 16:06:32.4273|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:32:427_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js.map,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:32.4273|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:32.4273|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:32.4963|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 68.5772ms - OK 
+
+2019-10-25 16:06:32.4963|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 69.1654ms - OK 
+
+2019-10-25 16:06:32.5323|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:32:427_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map_长度81192 
+
+2019-10-25 16:06:33.0913|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:091_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:33.0913|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:33.0913|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 16:06:33.0913|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:098_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:33.0913|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:098_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:33.0913|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:33.0913|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 16:06:33.0913|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:33.0913|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 16:06:33.1133|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 14.362400000000001ms - OK 
+
+2019-10-25 16:06:33.1133|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 15.5586ms - OK 
+
+2019-10-25 16:06:33.1133|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:098_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 16:06:33.1373|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 45.4189ms - OK 
+
+2019-10-25 16:06:33.1373|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 46.0643ms - OK 
+
+2019-10-25 16:06:33.1373|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 47.3388ms - OK 
+
+2019-10-25 16:06:33.1373|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:091_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 16:06:33.1373|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 48.0604ms - OK 
+
+2019-10-25 16:06:33.2673|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:267_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:33.2673|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:33.2673|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 16:06:33.2843|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:284_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:33.2843|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:33.2843|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 16:06:33.3223|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 55.0978ms - OK 
+
+2019-10-25 16:06:33.3233|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 55.7151ms - OK 
+
+2019-10-25 16:06:33.3443|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 59.263200000000005ms - OK 
+
+2019-10-25 16:06:33.3443|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 59.9095ms - OK 
+
+2019-10-25 16:06:33.3443|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:284_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 16:06:33.6333|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:267_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 16:06:33.9054|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:098_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 16:06:33.9914|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:991_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:33.9914|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:33.9914|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 16:06:34.0264|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 33.530300000000004ms - OK 
+
+2019-10-25 16:06:34.0264|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 34.127500000000005ms - OK 
+
+2019-10-25 16:06:34.0264|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:33:991_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 16:06:34.0584|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:34:058_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2Flocalhost%3A5000%2Fweatherforecast&hr=&uvt=1571990794055&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=cSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:34.0584|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990794055%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:34.0584|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990794055%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 16:06:34.0924|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 33.4874ms - OK 
+
+2019-10-25 16:06:34.0924|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 34.0808ms - OK 
+
+2019-10-25 16:06:34.0924|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:34:058_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571990794055%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 16:06:34.5174|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:34:517_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js.map,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:34.5174|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:34.5174|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 16:06:34.5664|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 48.180800000000005ms - OK 
+
+2019-10-25 16:06:34.5664|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 48.8877ms - OK 
+
+2019-10-25 16:06:34.6034|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:34:517_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map_长度81192 
+
+2019-10-25 16:06:40.3277|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:40:327_记录请求地址：http://3w.huanqiu.com/favicon.ico,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 16:06:40.3277|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 16:06:40.3277|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 16:06:40.3727|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 43.7992ms - OK 
+
+2019-10-25 16:06:40.3727|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 44.5413ms - OK 
+
+2019-10-25 16:06:40.3727|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 04:06:40:327_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico_图片字节流长度1892 
+
+2019-10-25 16:26:45.1586|Microsoft.Hosting.Lifetime|INFO
+Application is shutting down... 
+
+2019-10-25 17:14:32.0736|Microsoft.Hosting.Lifetime|INFO
+Application started. Press Ctrl+C to shut down. 
+
+2019-10-25 17:14:32.0996|Microsoft.Hosting.Lifetime|INFO
+Hosting environment: Production 
+
+2019-10-25 17:14:32.0996|Microsoft.Hosting.Lifetime|INFO
+Content root path: F:\我的小项目\域名代理服务器开发\DomainAgentWebapi\DomainAgentWebapiRelease 
+
+2019-10-25 17:14:32.0996|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:32.0996|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:32.0996|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:32.0996|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 17:14:32.1136|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 17:14:32.1726|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:172_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:32.1726|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 17:14:32.1726|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 210.5233ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 208.8214ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 212.3393ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 226.32950000000002ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 226.3323ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 226.32420000000002ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 153.58610000000002ms - OK 
+
+2019-10-25 17:14:32.3346|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 165.48250000000002ms - OK 
+
+2019-10-25 17:14:32.3456|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 17:14:32.3456|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:172_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 17:14:32.3456|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 17:14:32.3456|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 17:14:32.4226|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:422_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:32.4226|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 17:14:32.4226|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 17:14:32.6646|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 546.1665ms - OK 
+
+2019-10-25 17:14:32.6646|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 555.7277ms - OK 
+
+2019-10-25 17:14:32.8957|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:099_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 17:14:32.9997|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 576.1510000000001ms - OK 
+
+2019-10-25 17:14:32.9997|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 577.0657ms - OK 
+
+2019-10-25 17:14:32.9997|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:32:422_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 17:14:33.3377|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:33:336_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2Flocalhost%3A5000%2Fweatherforecast&hr=&uvt=1571994873327&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=cSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:33.3377|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571994873327%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 17:14:33.3377|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571994873327%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 17:14:33.3557|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:33:355_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js.map,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 17:14:33.3557|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 17:14:33.3557|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map 
+
+2019-10-25 17:14:33.3777|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 37.2252ms - OK 
+
+2019-10-25 17:14:33.3777|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 38.5747ms - OK 
+
+2019-10-25 17:14:33.3777|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:33:336_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252Flocalhost%253A5000%252Fweatherforecast%26hr%3d%26uvt%3d1571994873327%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dcSUtF1baZNdFFHTx4Lbdw0bMqysHJMk7%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 17:14:33.4297|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 73.4114ms - OK 
+
+2019-10-25 17:14:33.4297|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 74.27510000000001ms - OK 
+
+2019-10-25 17:14:33.4847|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 05:14:33:355_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js.map_长度81192 
+
+2019-10-25 17:35:31.1206|Microsoft.Hosting.Lifetime|INFO
+Application is shutting down... 
+
+2019-10-25 21:08:02.1429|Microsoft.Hosting.Lifetime|INFO
+Application started. Press Ctrl+C to shut down. 
+
+2019-10-25 21:08:02.1679|Microsoft.Hosting.Lifetime|INFO
+Hosting environment: Production 
+
+2019-10-25 21:08:02.1699|Microsoft.Hosting.Lifetime|INFO
+Content root path: F:\我的小项目\域名代理服务器开发\DomainAgentWebapi\DomainAgentWebapiRelease 
+
+2019-10-25 21:08:02.1699|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:02:167_记录请求地址：http://3w.huanqiu.com/a/c36dc8/9CaKrnKnonm,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:02.1699|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 21:08:02.1849|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm 
+
+2019-10-25 21:08:08.0103|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 5818.631ms - OK 
+
+2019-10-25 21:08:08.0103|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 5837.0173ms - OK 
+
+2019-10-25 21:08:08.0303|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:02:167_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fa%2fc36dc8%2f9CaKrnKnonm_长度11445 
+
+2019-10-25 21:08:08.1083|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:108_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/libs/jquery1.9.1.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.1083|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:108_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/css/index.css,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.1083|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 21:08:08.1083|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js 
+
+2019-10-25 21:08:08.1083|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 21:08:08.1083|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css 
+
+2019-10-25 21:08:08.1233|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:122_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/js/pubHeader.js?v=7,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.1233|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 21:08:08.1233|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7 
+
+2019-10-25 21:08:08.1533|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:153_记录请求地址：http://himg2.huanqiu.com/statics/3w/v2/dist/js/index.js?v=20190516000001,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.1533|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 21:08:08.1533|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001 
+
+2019-10-25 21:08:08.2073|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 52.3014ms - OK 
+
+2019-10-25 21:08:08.2073|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 53.6015ms - OK 
+
+2019-10-25 21:08:08.2073|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 100.78330000000001ms - OK 
+
+2019-10-25 21:08:08.2073|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 101.9303ms - OK 
+
+2019-10-25 21:08:08.2243|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 112.9546ms - OK 
+
+2019-10-25 21:08:08.2243|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 114.9856ms - OK 
+
+2019-10-25 21:08:08.2243|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:153_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fjs%2findex.js%3fv%3d20190516000001_长度22090 
+
+2019-10-25 21:08:08.2243|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:234_记录请求地址：http://3w.huanqiu.com/api/views?id=9CaKrnKnonm&sort=1,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.2243|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:108_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2flibs%2fjquery1.9.1.js_长度70006 
+
+2019-10-25 21:08:08.2243|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 21:08:08.2243|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1 
+
+2019-10-25 21:08:08.2433|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:108_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fdist%2fcss%2findex.css_长度25961 
+
+2019-10-25 21:08:08.2863|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:286_记录请求地址：http://stats.huanqiu.com/stats.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.2863|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 21:08:08.2863|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js 
+
+2019-10-25 21:08:08.4193|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 183.1424ms - OK 
+
+2019-10-25 21:08:08.4193|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 184.4138ms - OK 
+
+2019-10-25 21:08:08.4193|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:234_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2fapi%2fviews%3fid%3d9CaKrnKnonm%26sort%3d1_长度0 
+
+2019-10-25 21:08:08.4703|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 183.4282ms - OK 
+
+2019-10-25 21:08:08.4703|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 184.13420000000002ms - OK 
+
+2019-10-25 21:08:08.4703|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:286_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.js_长度5039 
+
+2019-10-25 21:08:08.4863|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:485_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1572008888479&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:08.4873|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1572008888479%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 21:08:08.4873|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1572008888479%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 21:08:08.5813|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 457.47540000000004ms - OK 
+
+2019-10-25 21:08:08.5813|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 458.6231ms - OK 
+
+2019-10-25 21:08:08.6013|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:122_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2f3w%2fv2%2fjs%2fpubHeader.js%3fv%3d7_长度32714 
+
+2019-10-25 21:08:08.6013|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 114.2671ms - OK 
+
+2019-10-25 21:08:08.6013|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 115.18900000000001ms - OK 
+
+2019-10-25 21:08:08.6013|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:08:485_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1572008888479%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 21:08:09.7224|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:09:721_记录请求地址：http://3w.huanqiu.com/favicon.ico,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:08:09.7224|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 21:08:09.7224|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico 
+
+2019-10-25 21:08:10.1794|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 455.00190000000003ms - OK 
+
+2019-10-25 21:08:10.1794|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 458.21250000000003ms - OK 
+
+2019-10-25 21:08:10.1794|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:08:09:721_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2f3w.huanqiu.com%2ffavicon.ico_图片字节流长度1892 
+
+2019-10-25 21:12:12.0892|Microsoft.Hosting.Lifetime|INFO
+Application is shutting down... 
+
+2019-10-25 21:12:36.7066|Microsoft.Hosting.Lifetime|INFO
+Application started. Press Ctrl+C to shut down. 
+
+2019-10-25 21:12:36.7317|Microsoft.Hosting.Lifetime|INFO
+Hosting environment: Production 
+
+2019-10-25 21:12:36.7317|Microsoft.Hosting.Lifetime|INFO
+Content root path: F:\我的小项目\域名代理服务器开发\DomainAgentWebapi\DomainAgentWebapiRelease 
+
+2019-10-25 21:12:36.7317|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:36:731_记录请求地址：http://www.huanqiu.com/,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:12:36.7317|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fwww.huanqiu.com%2f 
+
+2019-10-25 21:12:36.7487|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fwww.huanqiu.com%2f 
+
+2019-10-25 21:12:37.0587|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 301.0749ms - OK 
+
+2019-10-25 21:12:37.0587|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 322.331ms - OK 
+
+2019-10-25 21:12:37.0887|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:36:731_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fwww.huanqiu.com%2f_长度92415 
+
+2019-10-25 21:12:37.2517|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:37:251_记录请求地址：http://himg2.huanqiu.com/statics/www/hqnet/dist/images/beian.png,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:12:37.2517|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fwww%2fhqnet%2fdist%2fimages%2fbeian.png 
+
+2019-10-25 21:12:37.2517|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fwww%2fhqnet%2fdist%2fimages%2fbeian.png 
+
+2019-10-25 21:12:37.2517|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:37:253_记录请求地址：http://himg2.huanqiu.com/attachment2010/2019/0712/16/56/20190712045636544.jpg?w=168,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:12:37.2517|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fattachment2010%2f2019%2f0712%2f16%2f56%2f20190712045636544.jpg%3fw%3d168 
+
+2019-10-25 21:12:37.2517|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fattachment2010%2f2019%2f0712%2f16%2f56%2f20190712045636544.jpg%3fw%3d168 
+
+2019-10-25 21:12:37.4007|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 146.6878ms - OK 
+
+2019-10-25 21:12:37.4007|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 147.814ms - OK 
+
+2019-10-25 21:12:37.4037|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:37:251_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fwww%2fhqnet%2fdist%2fimages%2fbeian.png_图片字节流长度19256 
+
+2019-10-25 21:12:37.4037|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 155.55020000000002ms - OK 
+
+2019-10-25 21:12:37.4037|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 156.2665ms - OK 
+
+2019-10-25 21:12:37.7417|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:37:741_记录请求地址：http://himg2.huanqiu.com/statics/js/defaultkeyword.js,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:12:37.7417|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fjs%2fdefaultkeyword.js 
+
+2019-10-25 21:12:37.7417|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fjs%2fdefaultkeyword.js 
+
+2019-10-25 21:12:37.7787|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 34.7424ms - OK 
+
+2019-10-25 21:12:37.7787|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 36.9301ms - OK 
+
+2019-10-25 21:12:37.7787|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:37:741_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fjs%2fdefaultkeyword.js_长度27 
+
+2019-10-25 21:12:38.4908|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:37:253_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fattachment2010%2f2019%2f0712%2f16%2f56%2f20190712045636544.jpg%3fw%3d168_图片字节流长度148663 
+
+2019-10-25 21:12:38.5158|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:38:514_记录请求地址：http://himg2.huanqiu.com/statics/images/favicon1.ico,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:12:38.5158|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fimages%2ffavicon1.ico 
+
+2019-10-25 21:12:38.5158|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fimages%2ffavicon1.ico 
+
+2019-10-25 21:12:38.5918|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 75.2367ms - OK 
+
+2019-10-25 21:12:38.5918|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 76.6991ms - OK 
+
+2019-10-25 21:12:38.5918|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:38:514_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fimages%2ffavicon1.ico_图片字节流长度4286 
+
+2019-10-25 21:12:51.4045|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:51:404_记录请求地址：http://himg2.huanqiu.com/statics/hq2013/images/index/index.png,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:12:51.4045|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fhq2013%2fimages%2findex%2findex.png 
+
+2019-10-25 21:12:51.4045|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fhq2013%2fimages%2findex%2findex.png 
+
+2019-10-25 21:12:51.4775|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 72.0012ms - OK 
+
+2019-10-25 21:12:51.4775|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 74.04520000000001ms - OK 
+
+2019-10-25 21:12:51.4945|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:12:51:404_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fhimg2.huanqiu.com%2fstatics%2fhq2013%2fimages%2findex%2findex.png_图片字节流长度22735 
+
+2019-10-25 21:13:54.3641|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:13:54:362_记录请求地址：http://stats.huanqiu.com/stats.gif?sr=1920x1080&sc=24-bit&la=zh-cn&coo=true&fl=0&li=http%3A%2F%2F3w.huanqiu.com%2Fa%2Fc36dc8%2F9CaKrnKnonm&hr=&uvt=1572009234351&ti=%E5%8F%82%E5%8A%A0%E5%A4%A9%E7%9A%87%E5%8D%B3%E4%BD%8D%E4%BB%AA%E5%BC%8F%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A3%85%E6%89%AE%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%EF%BC%9A%E4%B8%8D%E5%B0%8A%E9%87%8D%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4&u=bZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb&id=55f7fd51a8aa42b957e16c961b0713dd&cv=!1custom1*%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%3A%E7%8B%AC%E5%AE%B6!2custom2*%E5%8F%82%E5%8A%A0%2C%E5%A4%A9%E7%9A%87%2C%E5%8D%B3%E4%BD%8D%2C%E4%BB%AA%E5%BC%8F%2C%E4%B9%8C%E5%85%8B%E5%85%B0!3custom3*%E8%96%9B%E8%89%BA%E7%A3%8A,是否存在当前域：True,是否是本地环境：True 
+
+2019-10-25 21:13:54.3641|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+Start processing HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1572009234351%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 21:13:54.3641|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Sending HTTP request GET http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1572009234351%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A 
+
+2019-10-25 21:13:54.5391|System.Net.Http.HttpClient.domainServiceClient.ClientHandler|INFO
+Received HTTP response after 172.77620000000002ms - OK 
+
+2019-10-25 21:13:54.5391|System.Net.Http.HttpClient.domainServiceClient.LogicalHandler|INFO
+End processing HTTP request after 174.14430000000002ms - OK 
+
+2019-10-25 21:13:54.5391|DomainAgentWebapi.Ajax.DomainMappingMiddleware|INFO
+2019-10-25 09:13:54:362_请求结束_http://139.199.128.86:444/?returnurl=http%3a%2f%2fstats.huanqiu.com%2fstats.gif%3fsr%3d1920x1080%26sc%3d24-bit%26la%3dzh-cn%26coo%3dtrue%26fl%3d0%26li%3dhttp%253A%252F%252F3w.huanqiu.com%252Fa%252Fc36dc8%252F9CaKrnKnonm%26hr%3d%26uvt%3d1572009234351%26ti%3d%25E5%258F%2582%25E5%258A%25A0%25E5%25A4%25A9%25E7%259A%2587%25E5%258D%25B3%25E4%25BD%258D%25E4%25BB%25AA%25E5%25BC%258F%25EF%25BC%258C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25AB%25E4%25BA%25BA%25E8%25A3%2585%25E6%2589%25AE%25E9%2581%25AD%25E7%25BD%2591%25E5%258F%258B%25E8%25B4%25A8%25E7%2596%2591%25EF%25BC%259A%25E4%25B8%258D%25E5%25B0%258A%25E9%2587%258D%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2587%25E5%25AE%25A4%26u%3dbZJjjYPU8mnyVLgMfD6H0qKC8wLW4hwb%26id%3d55f7fd51a8aa42b957e16c961b0713dd%26cv%3d!1custom1*%25E5%259B%25BD%25E9%2599%2585%25E6%2596%25B0%25E9%2597%25BB%253A%25E7%258B%25AC%25E5%25AE%25B6!2custom2*%25E5%258F%2582%25E5%258A%25A0%252C%25E5%25A4%25A9%25E7%259A%2587%252C%25E5%258D%25B3%25E4%25BD%258D%252C%25E4%25BB%25AA%25E5%25BC%258F%252C%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0!3custom3*%25E8%2596%259B%25E8%2589%25BA%25E7%25A3%258A_图片字节流长度43 
+
+2019-10-25 21:34:12.2287|Microsoft.Hosting.Lifetime|INFO
+Application is shutting down... 
+
