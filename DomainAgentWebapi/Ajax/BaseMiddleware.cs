@@ -18,9 +18,15 @@ namespace DomainAgentWebapi.Ajax
         /// 获取配置文件里面的配置内容
         /// </summary>
         protected IConfiguration Configuration { get; set; }
+        
+        /// <summary>
+        /// 下一个中间件
+        /// </summary>
+        protected RequestDelegate Next { get; set; }
 
         public BaseMiddleware(RequestDelegate next, params object[] @params)
         {
+            this.Next = next;
             foreach (var item in @params)
             {
                 if (item is IMemoryCache)

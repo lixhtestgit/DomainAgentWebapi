@@ -16,6 +16,7 @@ namespace DomainAgentWebapi.Ajax
     // You may need to install the Microsoft.AspNetCore.Http.Abstractions package into your project
     public class DomainMappingMiddleware : BaseMiddleware
     {
+
         public ConfigSetting ConfigSetting { get; set; }
 
         public ILogger<DomainMappingMiddleware> Logger { get; set; }
